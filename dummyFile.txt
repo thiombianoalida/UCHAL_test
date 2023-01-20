@@ -1,0 +1,5 @@
+item 1
+let us learn sharing good script
+today is friday
+item 3
+end of code file
