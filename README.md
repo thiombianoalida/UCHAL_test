@@ -1,2 +1,3 @@
 # UCHAL_test
-setting-up a group repository
+group repository
+test new line
